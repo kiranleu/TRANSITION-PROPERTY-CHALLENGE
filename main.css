@@ -1,0 +1,13 @@
+.linky{
+    width: 50%;
+    height:50%;
+    background-color: #000;
+    transition-property: color;
+    transition-duration: 1s;
+    
+}
+
+.linky:hover{
+    width: 50%;
+    background-color: red;
+}
